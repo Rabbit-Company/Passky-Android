@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         webView.setWebViewClient(new WebViewClient());
         webView.setWebChromeClient(new WebChromeClient());
         webView.setInitialScale(100);
-        webView.loadUrl("https://passky.org");
+        webView.loadUrl("file:///android_asset/index.html");
 
         WebSettings webSettings = webView.getSettings();
         webSettings.setAllowContentAccess(true);
