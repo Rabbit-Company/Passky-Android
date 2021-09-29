@@ -60,6 +60,10 @@ And when you donate, don’t think that you’re paying us to rest on our laurel
 If you’re ready to try Passky out at no cost, you can get started by visiting our website at https://passky.org. We currently have a desktop application available for Windows and Linux operating systems along with a mobile app on the Google Play Store. MacOS and iOS apps are currently being developed. In addition, we offer browser extensions for all major browsers except for Safari.
 
 ## Installation
+### Manually
+1. Inatall Passky .apk file from Github (https://github.com/Rabbit-Company/Passky-Android/releases/download/v4.0.1/passky-4.0.1.apk)
+2. Open application on your android device and click on "Install"
+3. Passky is now insalled
 ### Google Play
 1. Visit Google Play on mobile device and search for Passky (https://play.google.com/store/apps/details?id=com.rabbitcompany.passky)
 2. Click on "Install" button
