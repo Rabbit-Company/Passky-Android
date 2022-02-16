@@ -10,8 +10,7 @@
         android:hardwareAccelerated="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Passky"
-        android:allowBackup="false">
+        android:theme="@style/Theme.Passky">
         <activity android:name=".MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="true">
