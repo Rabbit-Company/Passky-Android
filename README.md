@@ -63,10 +63,14 @@ If you’re ready to try Passky out at no cost, you can get started by visiting 
 
 ## Installation
 ### Manually
-1. Inatall Passky .apk file from Github (https://github.com/Rabbit-Company/Passky-Android/releases/download/v4.3.0/passky-4.3.0.apk)
+1. Inatall Passky .apk file from [Github](https://github.com/Rabbit-Company/Passky-Android/releases/download/v6.0.1/passky-6.0.1.apk)
 2. Open application on your android device and click on "Install"
 3. Passky is now insalled
 ### Google Play
-1. Visit Google Play on mobile device and search for Passky (https://play.google.com/store/apps/details?id=com.rabbitcompany.passky)
+1. Visit Google Play on mobile device and search for [Passky](https://play.google.com/store/apps/details?id=com.rabbitcompany.passky)
 2. Click on "Install" button
 3. Passky is now installed
+### Galaxy Store
+1. Visit Galaxy Store on mobile device and search for [Passky](https://apps.samsung.com/appquery/appDetail.as?appId=com.rabbitcompany.passky)
+2. Open application on your android device and click on "Install"
+3. Passky is now insalled
