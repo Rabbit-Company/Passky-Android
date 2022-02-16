@@ -72,9 +72,9 @@ If you’re ready to try Passky out at no cost, you can get started by visiting 
 3. Passky is now installed
 ### Galaxy Store
 1. Visit Galaxy Store on mobile device and search for [Passky](https://apps.samsung.com/appquery/appDetail.as?appId=com.rabbitcompany.passky)
-2. Open application on your android device and click on "Install"
+2. Click on "Install" button
 3. Passky is now insalled
 ### Aptoide
 1. Visit Aptoide Store on mobile device and search for [Passky](https://passky.en.aptoide.com/app)
-2. Open application on your android device and click on "Install"
+2. Click on "Install" button
 3. Passky is now insalled
