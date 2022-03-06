@@ -80,3 +80,7 @@ If you’re ready to try Passky out at no cost, you can get started by visiting 
 1. Visit Aptoide Store on mobile device and search for [Passky](https://passky.en.aptoide.com/app)
 2. Click on "Install" button
 3. Passky is now insalled
+### F-Droid
+1. Visit F-Droid on mobile device and search for [Passky](https://f-droid.org/packages/com.rabbitcompany.passky/)
+2. Click on "Install" button
+3. Passky is now installed
