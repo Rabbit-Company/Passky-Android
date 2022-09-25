@@ -10,15 +10,6 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
     <title>Passky</title>
     <link rel="shortcut icon" type="image/png" href="images/logo.png"/>
-    <link rel="apple-touch-icon" href="images/icons/apple-touch-icon.png" />
-    <link rel="apple-touch-icon" sizes="57x57" href="images/icons/apple-touch-icon-57x57.png" />
-    <link rel="apple-touch-icon" sizes="72x72" href="images/icons/apple-touch-icon-72x72.png" />
-    <link rel="apple-touch-icon" sizes="76x76" href="images/icons/apple-touch-icon-76x76.png" />
-    <link rel="apple-touch-icon" sizes="114x114" href="images/icons/apple-touch-icon-114x114.png" />
-    <link rel="apple-touch-icon" sizes="120x120" href="images/icons/apple-touch-icon-120x120.png" />
-    <link rel="apple-touch-icon" sizes="144x144" href="images/icons/apple-touch-icon-144x144.png" />
-    <link rel="apple-touch-icon" sizes="152x152" href="images/icons/apple-touch-icon-152x152.png" />
-    <link rel="apple-touch-icon" sizes="180x180" href="images/icons/apple-touch-icon-180x180.png" />
     <link rel="stylesheet" href="css/tailwind.min.css">
     <link rel="stylesheet" href="css/settings.css">
     <link id="css-theme" type="text/css" rel="stylesheet" href="css/themes/dark.css">
@@ -32,8 +23,7 @@
         <div class="flex justify-between h-16">
           <div class="flex px-2 lg:px-0">
             <div class="flex-shrink-0 flex items-center">
-              <img class="block lg:hidden h-8 w-auto" src="images/logo.png" alt="Passky">
-              <img class="hidden lg:block h-8 w-auto" src="images/logo.png" alt="Passky">
+              <img id="logo" class="h-8 w-auto animate-[spin_0.7s_ease-in-out]" src="images/logo.png" alt="Passky">
             </div>
             <div class="hidden lg:ml-6 lg:flex lg:space-x-8">
               <a id="passwords-link" href="passwords.html" class="mainMenuLink border-transparent inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
@@ -130,7 +120,7 @@
                             <option value="dracula">Dracula</option>
                             <option value="monokai">Monokai</option>
                             <option value="blue">Blue</option>
-                            <option value="nord">Nord</option>
+														<option value="nord">Nord</option>
                             <option value="gray">Gray</option>
                             <option value="light">Light</option>
                         </select>
