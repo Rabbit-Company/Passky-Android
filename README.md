@@ -65,7 +65,7 @@ If you’re ready to try Passky out at no cost, you can get started by visiting 
 
 ## Installation
 ### Manually
-1. Install Passky .apk file from [Github](https://github.com/Rabbit-Company/Passky-Android/releases/download/v6.3.0/passky-6.3.0.apk)
+1. Install Passky .apk file from [Github](https://github.com/Rabbit-Company/Passky-Android/releases/download/v7.1.0/passky-7.1.0.apk)
 2. Open application on your android device and click on "Install"
 3. Passky is now insalled
 ### Google Play
